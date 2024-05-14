@@ -1,0 +1,4 @@
+# create a file api/auth/[...nextauth]/route.js : Write the server code in this file, after witing the server code make it as export handler = Nextauth...(remaining code) and then export it by export handler as GET, handler as POST
+# session provider to be used in component/SessionWrapper.js and we have to use it in layout.js and make SessionWrapper.js file as "use client" because client component which is Sessionprovider which we habe imported is client component 
+# wrap in the session provider the component you want to see in the session
+# auth_url = http://localhost:3000/api/auth/callback/github

@@ -1,0 +1,9 @@
+Middlewares in nextjs modifies the request for e.g if user goes to url "/about/anypath" which is not an api or page you can set default response for that by using middleware
+
+you can also set the same response for that for database request for e.g if your database doesnot show the desired result you can always set a response for that by using Middlewares
+
+rewrite:
+shows the data of the page you want on the wrong url entered by user or any url
+
+redirect:
+redirects to the page
