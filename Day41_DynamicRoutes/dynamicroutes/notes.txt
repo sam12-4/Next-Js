@@ -1,0 +1,4 @@
+make dynamic routes using blog/[slug]/page.js
+make multiple dynamic routes using blogpost/[...slug]/page.js
+show error page using error.js
+show not-found page using not-found.js
