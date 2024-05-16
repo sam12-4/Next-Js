@@ -1,0 +1,4 @@
+saw layouts
+saw group layouts
+saw nested layouts
+how to generate title without layout.js with next js : Metadata Object and generateMetadata Options
